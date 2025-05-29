@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Charlie Bertelsen and I am currently a Data Analytics major at Washington State University. I enjoy working with data to find patterns, solve problems, and tell stories through interactive dashboards and visualizations.
+My name is Charlie Bertelsen and I am currently a student at Washington State University where I am pursuing a major in Data Analytics and a minor in Economics. I enjoy working with data to find patterns, solve problems, and tell stories through interactive dashboards and visualizations.
 
 Some of my favorite projects include building a personal fitness tracker to store health data and track progress toward my goals, exploring the impacts of COVID-19 on traffic patterns in Los Angeles, and analyzing airline auxiliary revenue. You can find some of these projects below!
 
