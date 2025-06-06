@@ -10,7 +10,7 @@ Outside of data, I'm always looking for new challenges and ways to turn ideas in
 
 🎯 Primary Interests  
 - Sports analytics  
-- Health tech  
+- Health analytics
 - Behavioral economics  
 - Interactive data storytelling
 
