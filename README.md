@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello
 
 My name is Charlie Bertelsen and I'm an aspiring data analyst and a recent Washington State University Data Analytics graduate. I enjoy working with data to find patterns, solve problems, and tell stories through interactive dashboards and visualizations.
 
